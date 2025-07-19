@@ -28,7 +28,7 @@ cd _site
 git init
 git remote add origin https://github.com/StatSolver/Portfolio2.git
 git checkout -b gh-pages
-git add .
+git add -A
 git commit -m "Deploy site update"
 git push -f origin gh-pages
 
