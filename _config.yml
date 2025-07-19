@@ -66,3 +66,11 @@ paginate_path: "/page:num/"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Resume
+    link: /resume/
