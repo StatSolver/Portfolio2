@@ -32,6 +32,13 @@
           <span>{{ site.data.locales[include.lang].tabs.resume | upcase }}</span>
         </a>
       </li>
+      <!--Projects-->
+      <li class="nav-item{% if page.url == '/projects/' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/projects/' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-list-check"></i> <!-- You can change icon if you want -->
+          <span>{{ site.data.locales[include.lang].tabs.projects | upcase }}</span>
+        </a>
+      </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">

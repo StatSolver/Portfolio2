@@ -12,6 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: Home
   resume: Resume
+  projects: Projects
   categories: Categories
   tags: Tags
   archives: Archives
