@@ -32,6 +32,14 @@
           <span>{{ site.data.locales[include.lang].tabs.resume | upcase }}</span>
         </a>
       </li>
+      <!--Cover Letter-->
+      <li class="nav-item{% if page.url == '/coverletter/' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/coverletter/' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-paperclip"></i> <!-- You can change icon if you want -->
+          <span>{{ site.data.locales[include.lang].tabs.coverletter | upcase }}</span>
+        </a>
+      </li>
+
       <!--Projects-->
       <li class="nav-item{% if page.url == '/projects/' %}{{ " active" }}{% endif %}">
         <a href="{{ '/projects/' | relative_url }}" class="nav-link">
