@@ -25,8 +25,6 @@ IF ERRORLEVEL 1 (
 REM ==== Step 3: Deploy _site/ to gh-pages ====
 echo 🚀 Preparing to deploy _site to gh-pages...
 
-REM Add .nojekyll to prevent GitHub Pages from ignoring folders
-echo > _site\.nojekyll
 
 REM Remove old .git folder if it exists
 IF EXIST _site\.git rmdir /s /q _site\.git

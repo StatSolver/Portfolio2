@@ -32,6 +32,7 @@ baseurl: "/Portfolio2" # the subpath of your site, e.g. /blog
 url: "https://Statsolver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Statsolver
 github_username: Statsolver
+username: Statsolver
 
 avatar: https://media.licdn.com/dms/image/v2/D5603AQEHRFX-ffILdg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723885450840?e=1757548800&v=beta&t=D5hCrXjYMLXFnaLQMgSpPBKcGWgMssFl27_8dNuT-fw # Path to your avatar image
 # Build settings
@@ -74,3 +75,7 @@ nav:
     link: /about/
   - name: Resume
     link: /resume/
+  - name: Cover
+    link: /coverletter/
+  - name: Projects
+    link: /projects/
