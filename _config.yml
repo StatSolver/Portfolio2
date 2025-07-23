@@ -78,3 +78,6 @@ nav:
     link: /coverletter/
   - name: Projects
     link: /projects/
+
+include:
+  - .nojekyll
