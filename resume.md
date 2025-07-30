@@ -66,12 +66,24 @@ permalink: /resume/
 
 ---
 
-## 🛠️ Skills
+## Skills & Proficiencies
+  **E-commerce Management**
 
-- Languages: Python, JavaScript, C++
-- Web: HTML, CSS, Jekyll, Bootstrap
-- Tools: Git, VS Code, Postman
+ - Product Listing & Optimization
+ - PPC Campaign Management
+ - Return & Inventory Management
+ - Seller/Vendor Central Operations
+ - SAP B1 & DTW Data Upload
+ - B2B & Marketplace Onboarding
+
+ **Technical Skills**
+ - Microsoft Excel (Advanced)
+ - VBA Automation
+ - MySQL / MariaDB
+ - PHP, HTML, CSS, JavaScript
+ - Data Analysis & Reporting
+ - Custom Software Development
+ - Google Sheet / Spreadsheet
 
 ---
 
-Feel free to format this further with emojis, lists, or even HTML if you want fine control.
