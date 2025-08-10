@@ -68,8 +68,8 @@ paginate_path: "/page:num/"
 #   - vendor/ruby/
 
 nav:
-  - name: Home
-    link: /
+  - name: Homepage
+    link: /homepage/
   - name: About
     link: /about/
   - name: Resume

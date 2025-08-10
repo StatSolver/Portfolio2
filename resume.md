@@ -3,6 +3,13 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+<style>
+
+
+
+
+</style>
+
 
 ## Professional Summary
 
@@ -86,4 +93,15 @@ permalink: /resume/
  - Google Sheet / Spreadsheet
 
 ---
+## Educational
+**IGNOU - New Delhi, India (July 2015 — January 2017)**
+- M.A History
 
+**University of Delhi - New Delhi, India (May 2012 — June 2015)**
+- BA (Hons) in History
+
+**Sarvodaya Co-Ed Senior Secondary School - New Delhi, India (April 2011 — March 2012)**
+- Senior Secondary School
+
+**Sarvodaya Co-Ed Senior Secondary School - New Delhi, India (April 2009 — March 2010)**
+- Secondary School

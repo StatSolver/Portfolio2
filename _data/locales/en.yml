@@ -10,7 +10,8 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
+  # home: Home
+  homepage: Home Page
   resume: Resume
   projects: Projects
   coverletter: Cover Letter
